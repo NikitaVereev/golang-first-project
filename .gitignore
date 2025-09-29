@@ -1,3 +1,4 @@
 /postgress-data
 /.env
 /docker-compose.yml
+/.idea
